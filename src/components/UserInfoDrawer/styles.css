@@ -1,0 +1,13 @@
+.user-info-header {
+  display: flex;
+}
+
+.back-btn {
+  border: none;
+  background: none;
+  cursor: pointer;
+}
+
+.title {
+  flex: 1;
+}
